@@ -1,0 +1,20 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+myenv/
+
+# Ignore data files (if any)
+*.csv
+*.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+__pycache__/
+*.pyc
+*.pyo
+myenv/
