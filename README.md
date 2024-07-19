@@ -4,7 +4,7 @@
 
 The Weather ETL (Extract, Transform, Load) project collects weather data for Cairo, Egypt from OpenWeather API,
 performs basic transformations, and loads the data into a PostgreSQL database.
-The ETL process is automated using Apache Airflow. This project demonstrates a complete ETL pipeline from data extraction through transformation to loading, along with automation and management using Airflow.
+The ETL process is automated using Apache Airflow.
 
 ![etl](https://github.com/user-attachments/assets/761ff3d8-fe9e-4a23-880f-7b914ffb21cb)
 
